@@ -7,6 +7,9 @@
 
 # [Carnet B.apkg](https://github.com/donmerendolo/anki-carnet-B/raw/master/Carnet%20B.apkg)
 
+## Descargar Anki
+https://apps.ankiweb.net/
+
 ## Addon necesario
 Hay que instalar el addon [Multiple Choice for Anki](https://ankiweb.net/shared/info/1566095810), de código 1566095810.
 
