@@ -1,50 +1,75 @@
+# Import the necessary modules
 import json
-from pynput.mouse import Button, Controller
-import pyperclip
-from time import sleep
+import genanki
+from os.path import basename
 
-# Read the data from the JSON file
-with open('data.json') as json_file:
-    data = json.load(json_file)
+# Read the template JSON file
+with open("./templates.json", "r") as f:
+    templates = json.load(f)
+
+# Create a custom model with the fields we want
+model = genanki.Model(
+  1474397062,
+  "Carnet B",
+  fields=[
+    {'name': 'Question'},
+    {'name': 'Image'},
+    {'name': 'QType (0=kprim,1=mc,2=sc)'},
+    {'name': 'Q_1'},
+    {'name': 'Q_2'},
+    {'name': 'Q_3'},
+    {'name': 'Answers'},
+    {'name': 'Sources'}
+    ],
+  templates=[
+    {
+      'name': 'AllInOne (kprim, mc, sc)',
+      'qfmt': templates["front_template"],
+      'afmt': templates["back_template"]
+      },
+  ],
+  css = templates["styling"]
+  )
+
+# Create the deck
+deck = genanki.Deck(
+  2177067181,
+  "Carnet B"
+  )
+
+# Create the package
+package = genanki.Package(deck)
+
+# Read the data JSON file
+with open("./data.json", "r") as f:
+    data = json.load(f)
 
 
-# Create a mouse controller
-mouse = Controller()
-def paste(value, coordinates):
-    mouse.position = coordinates
-    mouse.click(Button.left)
-    pyperclip.copy(value)
-    mouse.click(Button.right)
-    sleep(0.2)
+img_files = []
+
+# Iterate over each JSON element
+for item in data:
+    img = item["img"]
+    fields=[
+            item["pregunta"],
+            f'<img src="{basename(img)}">',
+            "2", #QType
+            item["a."], item["b."], item["c."],
+            item["correcta"],
+            item["explicacion"]
+            ]
     
-    if coordinates == [1220, 60]:
-        mouse.position = [coordinates[0]+50, coordinates[1]+80]
-    else:
-        mouse.position = [coordinates[0]+50, coordinates[1]+60]
-    mouse.click(Button.left)
-    sleep(0.2)
+    # Create an Anki note with the custom model and assign values to each field
+    note = genanki.Note(
+        model=model,
+        fields=fields
+        )
+        
+    if img:
+        package.media_files.append(img)
+        img_files.append(img)
     
-for dict in data[2600:]:
-    paste(dict["explicacion"], [550, 740])
-    paste(dict["correcta"], [550, 670])
-    paste(dict["c."], [550, 600])
-    paste(dict["b."], [550, 520])
-    paste(dict["a."], [550, 450])
-    paste("2", [550, 380])
-    paste(dict["pregunta"], [550, 300])
-    
-    paste(dict["img"][2:], [1220, 60])
-    sleep(0.4)
-    
-    mouse.position = [1000, 110]
-    mouse.press(Button.left)
-    sleep(0.2)
-    mouse.position = [550, 220]
-    sleep(0.2)
-    mouse.release(Button.left)
-    sleep(0.2)
-    
-    mouse.position = [650, 1017]
-    mouse.click(Button.left)
-    print(data.index(dict))
-    sleep(0.2)
+    deck.add_note(note)
+
+# Generate and save the apkg file
+genanki.Package(deck, img_files).write_to_file("Carnet B.apkg")
