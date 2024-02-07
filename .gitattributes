@@ -1,1 +1,2 @@
 *.apkg filter=lfs diff=lfs merge=lfs -text
+images/** filter=lfs diff=lfs merge=lfs -text
