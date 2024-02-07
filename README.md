@@ -5,8 +5,14 @@
   </p>
 </div>
 
-# [Carnet B.apkg](https://github.com/donmerendolo/anki-carnet-B/raw/master/Carnet%20B.apkg)
-Un deck de anki con 2730 preguntas para el examen teórico del permiso B en España. 
+## [🚗 Carnet B](https://github.com/donmerendolo/anki-carnet-B/raw/master/Carnet%20B.apkg)
+**Actualizado 2022-12-08**<br>
+2730 preguntas<br>
+
+## [🏍️ Carnet A1](https://github.com/donmerendolo/anki-carnet-B/raw/master/Carnet%20A1.apkg)
+**Actualizado 2024-02-03**<br>
+899 preguntas<br>
+(gracias a @XaviACLM)<br>
 
 ## Descargar Anki
 https://apps.ankiweb.net/
