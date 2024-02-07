@@ -8,18 +8,27 @@ with open("./templates.json", "r") as f:
     templates = json.load(f)
 
 # Available licenses
-licenses = {
+carnets = {
   "A1": {
     "deck name": "Carnet A1",
     "deck id": 5477115111,
-    "name": "A1"
+    "name": "A1",
+    "data_path": "data\\data_A1.json",
+    "images_path": "images\\A1"
   },
   "B": {
     "deck name": "Carnet B",
     "deck id": 2177067181,
-    "name": "B"
+    "name": "B",
+    "data_path": "data\\data_B.json",
+    "images_path": "images\\B"
   }
 }
+
+# Ask the user to select a license
+print([f"{i}" for i in carnets])
+user_selection = input("Selecciona un carnet: ").upper()
+carnet = carnets[user_selection]
 
 # Create a custom model with the fields we want
 model = genanki.Model(
@@ -47,15 +56,15 @@ model = genanki.Model(
 
 # Create the deck
 deck = genanki.Deck(
-  2177067181,
-  "Carnet B"
+  carnet["deck id"],
+  carnet["deck name"]
   )
 
 # Create the package
 package = genanki.Package(deck)
 
 # Read the data JSON file
-with open("./data.json", "r") as f:
+with open(carnet["data_path"], "r", encoding="utf-8") as f:
     data = json.load(f)
 
 
@@ -63,15 +72,15 @@ img_files = []
 
 # Iterate over each JSON element
 for item in data:
-    img = item["img"]
+    img = basename(item["img"])
     fields=[
-            item["pregunta"],
-            f'<img src="{basename(img)}">',
-            "2", #QType
-            item["a."], item["b."], item["c."],
-            item["correcta"],
-            item["explicacion"]
-            ]
+        item["pregunta"],
+        f'<img src="{img}">',
+        "2", #QType
+        item["a."], item["b."], item["c."],
+        item["correcta"],
+        item["explicacion"]
+    ]
     
     # Create an Anki note with the custom model and assign values to each field
     note = genanki.Note(
@@ -80,10 +89,10 @@ for item in data:
         )
         
     if img:
-        package.media_files.append(img)
-        img_files.append(img)
+        package.media_files.append(carnet["images_path"] + "\\" + img)
+        img_files.append(carnet["images_path"] + "\\" + img)
     
     deck.add_note(note)
 
 # Generate and save the apkg file
-genanki.Package(deck, img_files).write_to_file("Carnet B.apkg")
+genanki.Package(deck, img_files).write_to_file(carnet["deck name"] + ".apkg")
