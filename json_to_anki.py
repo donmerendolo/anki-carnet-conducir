@@ -7,6 +7,20 @@ from os.path import basename
 with open("./templates.json", "r") as f:
     templates = json.load(f)
 
+# Available licenses
+licenses = {
+  "A1": {
+    "deck name": "Carnet A1",
+    "deck id": 5477115111,
+    "name": "A1"
+  },
+  "B": {
+    "deck name": "Carnet B",
+    "deck id": 2177067181,
+    "name": "B"
+  }
+}
+
 # Create a custom model with the fields we want
 model = genanki.Model(
   1474397062,
