@@ -1,0 +1,6 @@
+-i https://pypi.org/simple
+cached-property==1.5.2
+chevron==0.14.0
+frozendict==2.4.0; python_version >= '3.6'
+genanki==0.13.1; python_version >= '3.6'
+pyyaml==6.0.1; python_version >= '3.6'
