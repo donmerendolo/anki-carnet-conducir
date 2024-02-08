@@ -27,7 +27,7 @@ carnets = {
 
 # Ask the user to select a license
 print([f"{i}" for i in carnets])
-user_selection = input("Selecciona un carnet: ").upper()
+user_selection = input("Selecciona un carnet: ")
 carnet = carnets[user_selection]
 
 # Create a custom model with the fields we want
