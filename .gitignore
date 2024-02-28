@@ -2,3 +2,4 @@ Pipfile
 Pipfile.lock
 *.apkg
 *.zip
+images/
