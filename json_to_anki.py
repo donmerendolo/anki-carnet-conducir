@@ -2,6 +2,7 @@
 import json
 import genanki
 from os.path import basename
+from pathlib import Path
 
 # Read the template JSON file
 with open("./templates.json", "r") as f:
@@ -13,15 +14,15 @@ carnets = {
     "deck name": "Carnet A1",
     "deck id": 5477115111,
     "name": "A1",
-    "data_path": "data\\data_A1.json",
-    "images_path": "images\\A1"
+    "data_path": Path("data/data_A1.json"),
+    "images_path": Path("images/A1")
   },
   "B": {
     "deck name": "Carnet B",
     "deck id": 2177067181,
     "name": "B",
-    "data_path": "data\\data_B.json",
-    "images_path": "images\\B"
+    "data_path": Path("data/data_B.json"),
+    "images_path": Path("images/B")
   }
 }
 
@@ -64,7 +65,7 @@ deck = genanki.Deck(
 package = genanki.Package(deck)
 
 # Read the data JSON file
-with open(carnet["data_path"], "r", encoding="utf-8") as f:
+with carnet["data_path"].open("r", encoding="utf-8") as f:
     data = json.load(f)
 
 
@@ -89,8 +90,8 @@ for item in data:
         )
         
     if img:
-        package.media_files.append(carnet["images_path"] + "\\" + img)
-        img_files.append(carnet["images_path"] + "\\" + img)
+        package.media_files.append(carnet["images_path"] / Path(img))
+        img_files.append(carnet["images_path"] / Path(img))
     
     deck.add_note(note)
 
