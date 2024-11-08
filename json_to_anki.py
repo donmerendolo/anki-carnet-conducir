@@ -5,11 +5,11 @@ from os.path import basename
 from pathlib import Path
 
 # Read the template JSON file
-with open("./templates.json", "r") as f:
+with open("./templates.json", "r", encoding="utf-8") as f:
     templates = json.load(f)
 
 # Available licenses
-carnets = {
+licenses = {
   "A1": {
     "deck name": "Carnet A1",
     "deck id": 5477115111,
@@ -27,9 +27,9 @@ carnets = {
 }
 
 # Ask the user to select a license
-print([f"{i}" for i in carnets])
+print([f"{license}" for license in licenses])
 user_selection = input("Selecciona un carnet: ")
-carnet = carnets[user_selection]
+license = licenses[user_selection]
 
 # Create a custom model with the fields we want
 model = genanki.Model(
@@ -57,15 +57,15 @@ model = genanki.Model(
 
 # Create the deck
 deck = genanki.Deck(
-  carnet["deck id"],
-  carnet["deck name"]
+  license["deck id"],
+  license["deck name"]
   )
 
 # Create the package
 package = genanki.Package(deck)
 
 # Read the data JSON file
-with carnet["data_path"].open("r", encoding="utf-8") as f:
+with license["data_path"].open("r", encoding="utf-8") as f:
     data = json.load(f)
 
 
@@ -75,12 +75,12 @@ img_files = []
 for item in data:
     img = basename(item["img"])
     fields=[
-        item["pregunta"],
+        item["question"],
         f'<img src="{img}">',
         "2", #QType
         item["a."], item["b."], item["c."],
-        item["correcta"],
-        item["explicacion"]
+        item["correct"],
+        item["explanation"]
     ]
     
     # Create an Anki note with the custom model and assign values to each field
@@ -90,10 +90,10 @@ for item in data:
         )
         
     if img:
-        package.media_files.append(carnet["images_path"] / Path(img))
-        img_files.append(carnet["images_path"] / Path(img))
+        package.media_files.append(license["images_path"] / Path(img))
+        img_files.append(license["images_path"] / Path(img))
     
     deck.add_note(note)
 
 # Generate and save the apkg file
-genanki.Package(deck, img_files).write_to_file(carnet["deck name"] + ".apkg")
+genanki.Package(deck, img_files).write_to_file(license["deck name"] + ".apkg")
