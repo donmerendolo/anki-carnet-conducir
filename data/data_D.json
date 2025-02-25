@@ -1,0 +1,1496 @@
+[
+    {
+        "img": "D_1.jpg",
+        "question": "¿Cuál será la misión de los fusibles?",
+        "a.": "Evitar que un aumento de la intensidad de la corriente dañe algún elemento del circuito eléctrico.",
+        "b.": "Reducir la intensidad de la corriente antes de que se incorpore al circuito eléctrico.",
+        "c.": "Evitar que el corriente eléctrico cambie de sentido.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_2.jpg",
+        "question": "La luz antiniebla delantera en los autobuses es...",
+        "a.": "opcional.",
+        "b.": "obligatoria.",
+        "c.": "sancionable su instalación y su uso.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_3.jpg",
+        "question": "¿Cuál es la misión de la bomba de refrigeración?",
+        "a.": "Compensar los momentos en que exista una presión inferior a la recomendada, reduciendo sobrepresiones.",
+        "b.": "Reducir las pérdidas de carga en el circuito de refrigeración.",
+        "c.": "Activar la circulación del líquido refrigerante.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_4.jpg",
+        "question": "En los transportes públicos regulares de uso especial para escolares por carretera, ¿Cuándo será obligatoria la presencia de un acompañante en el vehículo?",
+        "a.": "Cuando transporte alumnos de un centro de educación especial.",
+        "b.": "Siempre.",
+        "c.": "Cuando como mínimo, la tercera parte de los viajeros sean menores de 12 años.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_5.jpg",
+        "question": "Su conduce un autobús, como norma general, ¿podrá circular por un carril reversible?",
+        "a.": "No, si tiene más de 3 toneladas de M.M.A.",
+        "b.": "No, si circula sin viajeros.",
+        "c.": "Sí, independientemente de si trasporta viajeros o no.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_6.jpg",
+        "question": "¿En qué consiste el reglaje de los faros del sistema de alumbrado?",
+        "a.": "En ajustar, horizontal y verticalmente, el haz luminoso proyectado por los faros.",
+        "b.": "En regular adecuadamente la anchura de cada faro.",
+        "c.": "En comprobar que la orientación de los faros es la más baja posible.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_7.jpg",
+        "question": "Para adelantar con su autobús a un ciclomotor, deberá ocupar el carril de sentido contrario, atravesando una línea longitudinal continua en un momento que no exista peligro, ¿será correcto efectuar el adelantamiento?",
+        "a.": "No.",
+        "b.": "Sí.",
+        "c.": "Si, excepto si existe una señal de curvas peligrosas.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_8.jpg",
+        "question": "Entre las mejoras que proporciona un circuito de refrigeración cerrado y sellado, esta…",
+        "a.": "la disminución de perdida de líquido.",
+        "b.": "que no necesita el ventilador.",
+        "c.": "que el líquido refrigerante utilizado no necesita anticongelante a temperaturas bajo cero.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_9.jpg",
+        "question": "En los vehículos para el transporte de pasajeros, ¿es obligatorio colocar un cartel dentro del autobús indicando que existe un libro de reclamaciones?",
+        "a.": "No.",
+        "b.": "Sólo si el servicio es discrecional.",
+        "c.": "Sí.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_10.jpg",
+        "question": "Como norma general, ¿está obligado a mantener una separación mínima de 50 metros con el vehículo que le precede si la M.M.A de su autobús es superior a 3.500 kg.?",
+        "a.": "Sí.",
+        "b.": "No.",
+        "c.": "Solo en vías urbanas que no tengan carril reservado para la circulación de autobuses.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_11.jpg",
+        "question": "Si conduce un autobús articulado de 22.000kg de MMA, ¿en qué situación deberá guardar con el vehículo que le precede una distancia de seguridad de como mínimo 1,5 metros?",
+        "a.": "Al circular por una vía interurbana con un carril para cada sentido y sin que tenga intención de adelantar.",
+        "b.": "Al circular por un carril reservado para autobuses de carretera convencional.",
+        "c.": "Al circular por per un paso inferior sin intención de adelantar.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_12.jpg",
+        "question": "¿Qué tipo de freno es el de la fotografía?",
+        "a.": "De tambor.",
+        "b.": "De tipo neumático",
+        "c.": "De disco.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_13.jpg",
+        "question": "Si un autobús tiene una longitud de 13 metros y circula por una autovía fuera de poblado, con tres carriles en cada sentido, ¿le estará permitido utilizar el carril situado más a la izquierda?",
+        "a.": "Si, cuando las circunstancias del tráfico o de la vía lo aconsejen y no entorpezca la marcha de otro vehículo.",
+        "b.": "No.",
+        "c.": "No, porque tiene una longitud superior a los 7 metros.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_14.jpg",
+        "question": "De entre los accesorios, repuestos y herramientas que debe llevar todo vehículo de motor, ¿cuál es obligatorio que se encuentre a bordo de un autobús?",
+        "a.": "Un equipo homologado de extinción de incendios.",
+        "b.": "Una rueda completa de repuesto o una rueda de uso temporal.",
+        "c.": "Lámparas de repuesto y las herramientas necesarias para cambiarlas.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_15.jpg",
+        "question": "En la entrada de la vía por la que va a circular, se encuentra la señal de la imagen. ¿Cuál será la velocidad máxima que no podrá sobrepasar?",
+        "a.": "20 kilómetros por hora.",
+        "b.": "30 kilómetros por hora.",
+        "c.": "50 kilómetros por hora.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_16.jpg",
+        "question": "La luz que producen las lámparas del circuito de alumbrado, ¿cómo debe ser proyectada por el faro?",
+        "a.": "De forma que emita por separado los rayos que salen lateralmente de los que salen frontalmente.",
+        "b.": "Emitiendo rayos en todas las direcciones.",
+        "c.": "Con la dirección y las características necesarias para que la iluminación sea efectiva.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_17.jpg",
+        "question": "En un extremo del cigüeñal hay un volante. ¿Para qué sirve?",
+        "a.": "Para aumentar las revoluciones del motor.",
+        "b.": "Para vencer los puntos muertos por los que pasan los pistones.",
+        "c.": "Para disminuir las revoluciones del motor.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_18.jpg",
+        "question": "La etiqueta europea que llevan los neumáticos nuevos con información sobre aspectos medioambientales y de seguridad, ¿qué permite?",
+        "a.": "Conocer la velocidad y la carga máxima que soporta el neumático.",
+        "b.": "Comparar la calidad, el rendimiento y la eficiencia de los neumáticos.",
+        "c.": "Conocer la vida útil, expresada en kilómetros, de cada neumático.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_19.jpg",
+        "question": "El aceite que lubrica el mecanismo del turbocompresor es...",
+        "a.": "el mismo que utiliza el motor.",
+        "b.": "de baja viscosidad, dado el elevado número de revoluciones por minuto que alcanza durante su funcionamiento.",
+        "c.": "de alta viscosidad (valvulinas), para poder soportar su temperatura de funcionamiento.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_20.jpg",
+        "question": "En un autobús, ¿en qué ruedas deberemos colocar las cadenas?",
+        "a.": "En las ruedas motrices.",
+        "b.": "En las ruedas traseras.",
+        "c.": "En las ruedas delanteras.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_21.jpg",
+        "question": "El conductor de un autobús obligado a utilizar el tacógrafo, tiene que saber que la tarjeta de conductor tiene un periodo de validez de…",
+        "a.": "2 años.",
+        "b.": "5 años.",
+        "c.": "3 años.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_22.jpg",
+        "question": "Como norma general, no se permite la circulación de autobuses interurbanos de dos ejes, la MMA de los cuales sea superior a…",
+        "a.": "25 toneladas.",
+        "b.": "28 toneladas.",
+        "c.": "19 toneladas.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_23.jpg",
+        "question": "Si debido a una avería en el aire acondicionado de su autobús, el calor fuera tal que los pasajeros formularan una protesta, ¿podría realizar el servicio contratado circulando con la puerta delantera abierta?",
+        "a.": "Sí, siempre que se trate de un servicio urbano.",
+        "b.": "No, está prohibido circular con las puertas abiertas.",
+        "c.": "No, si incluye en su ruta zona interurbana.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_24.jpg",
+        "question": "¿Debe saber colocar y distribuir la carga correctamente cuando conduce un autobús?",
+        "a.": "No, porque la carga no afecta a la estabilidad o la conducción del autobús.",
+        "b.": "Sólo si el transporte se realice por vías interurbanas.",
+        "c.": "Sí, porque puede influir en el comportamiento del autobús en el momento de trazar las curvas.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_25.jpg",
+        "question": "En un neumático nuevo, la imagen de la etiqueta proporciona información sobre aspectos de seguridad y medioambientales. ¿Qué información incluye, entre otras, esta etiqueta?",
+        "a.": "Los materiales reciclables utilizados en su fabricación.",
+        "b.": "Vida media el neumático en condiciones ambientes extremas.",
+        "c.": "Adherencia en superficie mojada.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_26.jpg",
+        "question": "En caso de lluvia, ¿es conveniente utilizar el freno eléctrico?",
+        "a.": "Sí, pero lo utilizaremos con precaución sin activar todos los puntos de golpe.",
+        "b.": "Sí, porque gana eficacia.",
+        "c.": "Para la utilización del freno eléctrico son indiferentes las condiciones climatológicas.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_27.jpg",
+        "question": "¿Qué tasa de alcohol, de las enumeradas a continuación, no estarán permitidas para un conductor de autobús escolar?",
+        "a.": "0,05 miligramos de alcohol por litro de aire expirado.",
+        "b.": "0,10 miligramos de alcohol por litro de aire expirado.",
+        "c.": "0,20 miligramos de alcohol por litro de aire expirado.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_28.jpg",
+        "question": "Si durante una prueba de alcoholemia, supera el máximo permitido, un agente de tráfico, ¿podrá hacerle una segunda prueba para contrastarla con la primera?",
+        "a.": "Solo si la segunda prueba se realiza en un centro médico.",
+        "b.": "Si, pasados al menos 10 minutos y si el conductor tiene síntomas evidentes de haber ingerido alcohol.",
+        "c.": "No.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_29.jpg",
+        "question": "Conduce un autobús y circula por una autovía, fuera de poblado, que dispone de tres carriles de circulación en el mismo sentido. A la vista de esta señal, ¿le está permitido avanzar?",
+        "a.": "Sí, pero únicamente si no tengo que invadir el tercer carril.",
+        "b.": "Sí.",
+        "c.": "No.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_30.jpg",
+        "question": "Si conduce un autobús por una carretera convencional, ¿en qué caso deberá circular a una velocidad moderada o deteniendo el vehículo en caso de ser necesario?",
+        "a.": "Al aproximarse a un centro hospitalario o una residencia geriátrica.",
+        "b.": "Cuando el autobús no disponga de cinturones de seguridad.",
+        "c.": "Al aproximarse a una bicicleta que circula por la calzada o por el arcén.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_31.jpg",
+        "question": "Si conduce un autobús de M.M.A superior a 3.500 kg en poblado, ¿está obligado a mantener una separación mínima de 50 metros?",
+        "a.": "Sí.",
+        "b.": "Únicamente en vías con un carril para cada sentido de la circulación.",
+        "c.": "No.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_32.jpg",
+        "question": "Si conduce su autobús durante 56 horas en una semana, ¿Cuánto será el tiempo máximo de conducción semanal que tendrá para la semana siguiente?",
+        "a.": "56 horas.",
+        "b.": "34 horas.",
+        "c.": "45 horas.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_33.jpg",
+        "question": "¿Cuál es la longitud máxima permitida para un conjunto que consta de un autobús y un remolque?",
+        "a.": "16,50 metros.",
+        "b.": "15 metros.",
+        "c.": "18,75 metros.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_34.jpg",
+        "question": "¿Qué permiso autoriza a conducir un autobús apto para transportar 20 pasajeros y que lleva enganchado un remolque ligero?",
+        "a.": "El permiso de conducir de la clase D1.",
+        "b.": "El permiso de conducir de la clase D1E.",
+        "c.": "El permiso de conducir de la clase D.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_35.jpg",
+        "question": "¿Cuál será la tasa máxima de alcohol en sangre que no podrá sobrepasar si conduce un vehículo dedicado al transporte de viajeros de más de 9 plazas?",
+        "a.": "0,15 gramos de alcohol.",
+        "b.": "0,5 gramos de alcohol.",
+        "c.": "0,3 gramos de alcohol.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_36.jpg",
+        "question": "Como regla general, la antigüedad que no podrá superar, en el inicio del año escolar, un vehículo destinado al transporte público regular de una escuela especial, es de…",
+        "a.": "Dieciséis años después de la fecha de la primera matriculación.",
+        "b.": "Diez años después de la fecha de la primera matriculación.",
+        "c.": "Seis años después de la fecha de la primera matriculación.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_37.jpg",
+        "question": "Si por causas justificadas, no puede alcanzar con su autobús la velocidad mínima exigida y existe peligro de alcance con los vehículos que circulan por detrás, ¿qué debe hacer?",
+        "a.": "Detener el vehículo en la parte derecha de la calzada.",
+        "b.": "Seguir circulando hasta llegar a su destino con la señal de emergencia encendida.",
+        "c.": "Utilizar las luces indicadoras de dirección con señal de emergencia.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_38.jpg",
+        "question": "En una autopista, un autobús circula por un carril adicional circunstancial. En condiciones normales de circulación y como norma general, ¿a qué velocidad deberá circular?",
+        "a.": "A una velocidad máxima de 90 km/h y a una mínima de 50 km/h.",
+        "b.": "A una velocidad máxima de 90 km/h y a una mínima de 60 km/h.",
+        "c.": "A una velocidad máxima de 80 km/h y a una mínima de 60 km/h.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_39.jpg",
+        "question": "En una calzada con diferentes carriles, la circulación está saturada. Si un autobús circula por el carril derecho más rápido y sobrepasa a los vehículos de los otros carriles ¿Circula correctamente?",
+        "a.": "Únicamente si adelanta a una motocicleta.",
+        "b.": "Sí.",
+        "c.": "No.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_40.jpg",
+        "question": "Un autobús que lleva instalados cinturones de seguridad y no transporta menores, en una autovía fuera de poblado, ¿a qué velocidad máxima le está permitido circular durante un adelantamiento?",
+        "a.": "120 kilómetros por hora.",
+        "b.": "100 kilómetros por hora",
+        "c.": "110 kilómetros por hora.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_41.jpg",
+        "question": "Conduciendo su autobús pretende adelantar a un turismo que circula a 90 km/h. en una vía para automóviles. ¿Puede hacerlo?",
+        "a.": "Sí, haciéndolo en el menor tiempo y espacio posible.",
+        "b.": "Sí, superando en 20 Km/h. la velocidad a la que circula el turismo.",
+        "c.": "No, en ningún caso.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_42.jpg",
+        "question": "Si conduce un autobús articulado de tres ejes, no le estará permitido circular si su MMA excede de…",
+        "a.": "18 toneladas.",
+        "b.": "25 toneladas.",
+        "c.": "28 toneladas.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_43.jpg",
+        "question": "La masa resultante de sumar a la tara, la masa estándar de un conductor y del acompañante (en el caso de llevar) se llama:",
+        "a.": "Masa en carga.",
+        "b.": "Masa en descarga.",
+        "c.": "Masa en orden de marcha.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_44.jpg",
+        "question": "¿Cuándo se producen más accidentes de tráfico con víctimas mortales?",
+        "a.": "Los lunes.",
+        "b.": "Los días laborables a primera hora de la tarde.",
+        "c.": "Los fines de semana.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_45.jpg",
+        "question": "Si usted es el conductor y titular de un autobús destinado al transporte colectivo de viajeros, deberá someterse a la primera inspección técnica periódica…",
+        "a.": "a los dos años de la fecha de matriculación.",
+        "b.": "dentro del primer año, a partir de la fecha de matriculación.",
+        "c.": "dentro de los 6 meses, a partir de la fecha de matriculación.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_46.jpg",
+        "question": "¿Cuál será la velocidad máxima que no deberá sobrepasar, si conduce un autobús por una autovía, fuera de poblado, y que transporta pasajeros que viajan de pie?",
+        "a.": "90 kilómetros por hora.",
+        "b.": "80 kilómetros por hora.",
+        "c.": "100 kilómetros por hora.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_47.jpg",
+        "question": "Uno de los factores que intervienen en el momento de calcular el coeficiente aerodinámico es…",
+        "a.": "el valor máximo de potencia del motor sin abrir las ventanas.",
+        "b.": "las dimensiones de la superficie de la plataforma.",
+        "c.": "las dimensiones y la forma de la superficie frontal del vehículo.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_48.jpg",
+        "question": "¿Qué función realiza el sistema que adapta la fuerza del motor a la adherencia de las ruedas motrices (A.S.R.)?",
+        "a.": "Impide que el esfuerzo del motor llegue a las ruedas motrices y el vehículo se haga subvirador.",
+        "b.": "Impide que el esfuerzo del motor llegue a las ruedas motrices y el vehículo se haga sobrevirador.",
+        "c.": "Regula la fuerza del motor para que no patinen las ruedas motrices.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_49.jpg",
+        "question": "Si al realizar la inspección técnica periódica del autobús, el resultado es desfavorable, el vehículo…",
+        "a.": "deberá ser reparado y presentado en una estación ITV diferente.",
+        "b.": "deberá pasar la revisión en una estación ITV en un plazo máximo de 15 días.",
+        "c.": "quedará inutilizado para circular, excepto para trasladarlo al taller y volver a pasar la ITV.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_50.jpg",
+        "question": "¿Cada cuanto tiempo deberá pasar la inspección técnica periódica un autobús con 4 años de antigüedad?",
+        "a.": "Cada seis meses",
+        "b.": "Cada dos años",
+        "c.": "Cada año",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_51.jpg",
+        "question": "Si la longitud del autobús que conduce es superior a 6 metros, ¿deberá llevar las luces de posición laterales?",
+        "a.": "No, ya que estas luces son opcionales.",
+        "b.": "Sí, como mínimo cuadro de color amarillo auto.",
+        "c.": "Sí, como mínimo dos de color amarillo auto.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_52.jpg",
+        "question": "Conduce un autobús y circula por un carril reservado para ésta clase de vehículos. Cuando vea esta señal podrá…",
+        "a.": "continuar la marcha, siempre que sea para continuar recto.",
+        "b.": "continuar la marcha; no obligado a obedecer este semáforo.",
+        "c.": "continuar la marcha, siempre que sea para girar a la izquierda.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_53.jpg",
+        "question": "¿Cuándo se deberán cambiar las escobillas del limpia-parabrisas de un autobús?",
+        "a.": "Cada 6 meses.",
+        "b.": "Cuando se rompa el soporte de las gomas.",
+        "c.": "Cuando se observe que las gomas están endurecidas o en mal estado.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_54.jpg",
+        "question": "En los semáforos reservados a los autobuses de líneas regulares, la franja blanca iluminada sobre el fondo circular negro tiene el mismo significado que la luz roja de un semáforo convencional cuando…",
+        "a.": "la franja blanca está en posición horizontal.",
+        "b.": "la franja blanca está en posición oblicua.",
+        "c.": "la franja blanca está en posición vertical.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_55.jpg",
+        "question": "En un transporte escolar y de menores, como regla general, ¿se puede usar autobuses de dos pisos?",
+        "a.": "Sí.",
+        "b.": "No.",
+        "c.": "Sólo si tienen menores tiene una edad superior a los 14 años.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_56.jpg",
+        "question": "¿Cuál es la masa máxima autorizada por eje motor simple de clase II (autobuses interurbanos)?",
+        "a.": "16 toneladas.",
+        "b.": "13 toneladas.",
+        "c.": "12,6 toneladas.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_57.jpg",
+        "question": "Una presión insuficiente en los neumáticos de su autobús ocasiona:",
+        "a.": "un aumento del consumo del combustible.",
+        "b.": "una disminución del consumo de combustible.",
+        "c.": "menos resistencia al rodamiento.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_58.jpg",
+        "question": "Conduciendo un autobús, a la vista de esta señal, debe saber que...",
+        "a.": "se debe buscar otro itinerario, la señal prohíbe el acceso a los autobuses.",
+        "b.": "se puede continuar la marcha, solo prohíbe la entrada a los turismos y a las motocicletas.",
+        "c.": "se puede continuar la marcha, solo prohíbe la entrada a los turismos.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_59.jpg",
+        "question": "El autobús que conduce ha superado favorablemente la inspección técnica periódica. ¿Debe llevar en el vehículo el informe de inspección facilitado por la estación ITV?",
+        "a.": "Solamente si durante la inspección se ha detectado algún defecto leve.",
+        "b.": "No, basta con llevar el distintivo autoadhesivo en el parabrisas delantero.",
+        "c.": "Sí, y exhibirlo ante los agentes de tráfico que lo soliciten.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_60.jpg",
+        "question": "Si la longitud del autobús que conduce es inferior a 6 metros, ¿deberá llevar instaladas luces de posición laterales?",
+        "a.": "No, las luces de posición lateral serán opcionales.",
+        "b.": "Sí, de color amarillo auto, de manera aislada de otros dispositivos luminosos.",
+        "c.": "Sí, de color amarillo auto junto con otros dispositivos luminosos.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_61.jpg",
+        "question": "En el transporte escolar y de menores, cuando sea su presencia obligatoria, ¿qué deberá conocer el acompañante?",
+        "a.": "El parentesco de las personas encargadas de recoger a los menores.",
+        "b.": "El funcionamiento de los elementos de ocio del vehículo.",
+        "c.": "El funcionamiento de los mecanismos de seguridad del vehículo.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_62.jpg",
+        "question": "En general, las carreteras y autopistas son...",
+        "a.": "menos seguras que las carreteras convencionales.",
+        "b.": "igual que las carreteras convencionales.",
+        "c.": "más seguras que las carreteras convencionales.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_63.jpg",
+        "question": "Como norma general y en condiciones normales de circulación, a un autobús de 7.500 kg. de M.M.A., ¿le está permitido circular por el arcén?",
+        "a.": "Sí.",
+        "b.": "Solo en calzadas con doble sentido y dos carriles delimitados por marcas viales.",
+        "c.": "No.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_64.jpg",
+        "question": "De las distintas estructuras de la cubierta de un neumático, ¿cuál es la más empleada?",
+        "a.": "La radial.",
+        "b.": "La maciza.",
+        "c.": "La diagonal.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_65.jpg",
+        "question": "En el caso que el accionamiento del embrague del autobús sea hidráulico, ¿Deberá revisar el nivel de líquido?",
+        "a.": "Sí, y comprobar si el depósito está perdiendo líquidos.",
+        "b.": "Únicamente cuando notemos que los engranajes de la caja de cambios rascan al apretar el pedal de embrague.",
+        "c.": "Sí, y comprobar que el nivel de líquido se encuentra entre las marcas de máximo y mínimo.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_66.jpg",
+        "question": "El cárter que contiene el aceite para lubricar el motor se encuentra en...",
+        "a.": "la parte inferior del motor.",
+        "b.": "la parte superior del motor.",
+        "c.": "la parte delantera del motor.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_67.jpg",
+        "question": "Un autobús y un conjunto de vehículos llegan a la vez a un estrechamiento que no permite el cruce simultáneo. A falta de señalización, ¿quién debe dar marcha atrás?",
+        "a.": "El que tenga menor dificultad de maniobra.",
+        "b.": "El conjunto de vehículos.",
+        "c.": "El autobús.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_68.jpg",
+        "question": "¿En qué clase de autobuses no está autorizado transportar viajeros de pie?",
+        "a.": "En los autobuses de largo recorrido.",
+        "b.": "En los autobuses urbanos.",
+        "c.": "En los autobuses de corto recorrido.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_69.jpg",
+        "question": "La regla PAS dispone las pautas básicas a seguir en caso de estar involucrado o presenciar un accidente de tráfico. ¿Qué orden de actuación establece dicha regla?",
+        "a.": "Proteger, Ayudar y Solicitar auxilio.",
+        "b.": "Socorrer, Avisar y Proteger.",
+        "c.": "Proteger, Avisar y Socorrer.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_70.jpg",
+        "question": "Delante de un accidente de tráfico lo más correcto será…",
+        "a.": "abstenerse, no hacer nada.",
+        "b.": "abandonar rápidamente el lugar.",
+        "c.": "valorar el estado de los heridos, estableciendo prioridades e intentando mantener el orden en el lugar del accidente.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_71.jpg",
+        "question": "¿De qué elemento forma parte el regulador que impide a un motor diesel superar la velocidad de rotación máxima prevista?",
+        "a.": "De la válvula de presión.",
+        "b.": "Del sistema avanzado de inyección.",
+        "c.": "De la bomba inyectora.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_72.jpg",
+        "question": "El conductor de un autobús advierte con el indicador izquierdo su propósito de desplazarse de carril para adelantar. ¿Cuándo se debe apagar el indicador?",
+        "a.": "Cuando supere al vehículo y antes de regresar a la derecha.",
+        "b.": "Cuando termine el desplazamiento.",
+        "c.": "Cuando regresa al carril derecho.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_73.jpg",
+        "question": "Un autobús destinado al servicio público de viajeros, ¿deberá llevar iluminación en el interior del habitáculo?",
+        "a.": "Únicamente si circula entre la salida y la puesta del sol.",
+        "b.": "No, ya que es opcional.",
+        "c.": "Sí, es obligatorio.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_74.jpg",
+        "question": "Si estaciona su autobús durante la noche en el arcén de una travesía insuficientemente iluminada, ¿con qué luz deberá señalizarlo?",
+        "a.": "Con ninguna, porque está fuera de la calzada.",
+        "b.": "Con las luces de cruce y de posición.",
+        "c.": "Con las luces de posición.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_75.jpg",
+        "question": "Conduciendo su autobús coincide, en un tramo estrecho que no permite el paso simultáneo, con un turismo que circula en sentido contrario. Si no hay ninguna señalización, ¿Quién deberá dar la marcha atrás?",
+        "a.": "El primero que haya entrado",
+        "b.": "El turismo.",
+        "c.": "El autobús.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_76.jpg",
+        "question": "En la normativa que regula los tiempos de conducción y descanso, ¿cuál es el tiempo máximo de conducción en dos semanas consecutivas?",
+        "a.": "56 horas.",
+        "b.": "90 horas.",
+        "c.": "84 horas.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_77.jpg",
+        "question": "En el transporte de menores de edad, el vehículo será identificado con una imagen distintiva (debe llevar uno en frente y otro en la parte trasera). ¿Dónde debe estar colocado el distintivo?",
+        "a.": "Dentro del vehículo de forma que sea visible desde el exterior.",
+        "b.": "Fuera del vehículo, por encima de la placa de matrícula.",
+        "c.": "Dentro del vehículo, de manera que sea visible para todos los pasajeros.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_78.jpg",
+        "question": "Si por razones de emergencia, se ve obligado a circular con su autobús por una autovía a velocidad anormalmente reducida, ¿qué debe hacer?",
+        "a.": "Abandonar la autovía por la primera salida.",
+        "b.": "Encender las luces de emergencia y seguir circulando hasta llegar a su destino.",
+        "c.": "Detener el autobús en el lado izquierdo de la calzada.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_79.jpg",
+        "question": "Con su autobús se prepara para adelantar a una motocicleta que debe realizar un desplazamiento lateral significativo, aunque no lo suficiente para invadir el carril adyacente. ¿Será necesario señalar el desplazamiento lateral?",
+        "a.": "Sí.",
+        "b.": "No.",
+        "c.": "Si, únicamente en el caso de vehículos de 2 ruedas.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_80.jpg",
+        "question": "En caso de que su autobús necesita utilizar dos baterías de 12 voltios, ¿Cómo deben estar conectados a sus terminales?",
+        "a.": "El negativo de la batería con el negativo de la otra.",
+        "b.": "El positivo de una batería a la masa negativa y el otro conectado a la alimentación.",
+        "c.": "El positivo de la batería con un negativo de la otra.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_81.jpg",
+        "question": "Si conduce un autobús destinado al transporte de viajeros de más de nueve plazas, ¿cuál es la tasa máxima de alcohol por litro de aire espirado que no podrá rebasar?",
+        "a.": "0,30 miligramos de alcohol.",
+        "b.": "0,25 miligramos de alcohol.",
+        "c.": "0,15 miligramos de alcohol.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_82.jpg",
+        "question": "Como norma general, ¿está permitido circular con un autobús con remolque si la longitud total del conjunto es de 19 metros?",
+        "a.": "Sí.",
+        "b.": "Únicamente si el autobús es rígido y el remolque ligero.",
+        "c.": "No.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_83.jpg",
+        "question": "Para conducir un autobús con capacidad para 20 personas, incluido el conductor, que arrastra un remolque de 650 kg. de M.M.A, ¿qué permiso de conducción necesita, al menos?",
+        "a.": "El permiso de la clase D1E.",
+        "b.": "El permiso de la clase D.",
+        "c.": "El permiso de la clase DE.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_84.jpg",
+        "question": "Si conduce un autobús destinado al transporte publico discrecional de viajeros, ¿Es obligatorio tener alguna autorización, además del permiso de circulación?",
+        "a.": "Sí, la autorización de transporte público.",
+        "b.": "Sí, la autorización complementaria de transporte intermodal.",
+        "c.": "No.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_85.jpg",
+        "question": "Un pasajero con un animal que no es un perro guía, quiere acceder al autobús. Como norma general, ¿Qué deberá hacer el conductor o el encargado del autobús?",
+        "a.": "Imponerle una sanción",
+        "b.": "Prohibirle la entrada.",
+        "c.": "Permitiéndole el paso, pero advirtiéndole que no podrá molestar a los demás viajeros.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_86.jpg",
+        "question": "Un autobús rígido de dos ejes, con una longitud de 13,50 metros, ¿puede llevar instalado en la parte posterior algún accesorio desmontable?",
+        "a.": "Sí.",
+        "b.": "No.",
+        "c.": "Si, únicamente si el conjunto de autobús y accesorio no sobrepasa los 14 metros de longitud.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_87.jpg",
+        "question": "En un neumático nuevo, la etiqueta de la imagen proporciona información sobre aspectos medioambientales y de seguridad. ¿Qué información incluye, entre otras, esta etiqueta?",
+        "a.": "Materiales reciclables empleados en su fabricación.",
+        "b.": "Vida media del neumático en ambientes extremos.",
+        "c.": "Nivel de ruido exterior de la rodadura.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_88.jpg",
+        "question": "En el transporte público de viajeros en autobús, ¿Es obligatorio que todos los pasajeros estén cubiertos con el seguro obligatorio de los viajeros (SOV)?",
+        "a.": "No.",
+        "b.": "Sólo cuando se trata de un servicio interurbano.",
+        "c.": "Sí.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_89.jpg",
+        "question": "El grado de alcoholemia suele llegar al nivel máximo…",
+        "a.": "dos horas después de haber tomado la última copa.",
+        "b.": "inmediatamente después de tomar la última copa.",
+        "c.": "entre 30 y 90 minutos después de haber ingerido la última copa.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_90.jpg",
+        "question": "Como norma general, ¿está obligado a mantener una separación mínima de 50 metros con el vehículo que le precede si su autobús tiene una longitud total de más de 10 metros?",
+        "a.": "Solo en vías interurbanas con dos o más carriles en el mismo sentido de circulación.",
+        "b.": "Sí.",
+        "c.": "No.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_91.jpg",
+        "question": "Si mantiene los neumáticos a la presión adecuada, ¿Qué conseguirá?",
+        "a.": "reducirá su duración.",
+        "b.": "aumentar el consumo de carburante del motor.",
+        "c.": "mejorar la adherencia.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_92.jpg",
+        "question": "Si usted conduce un autobús y está involucrado en un accidente de tráfico, como regla general, ¿Qué documento certifica el derecho de los viajeros a la provisión que cubre el seguro obligatorio de los viajeros (SOV)?",
+        "a.": "La póliza de seguro suscrito voluntariamente a cada pasajero.",
+        "b.": "El billete o título de transporte.",
+        "c.": "El billete es también una póliza de seguro.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_93.jpg",
+        "question": "Si conduce un autobús con remolque ligero, en una vía fuera de poblado con tres carriles para el mismo sentido y el conjunto supera los siete metros, ¿por qué carriles puede circular?",
+        "a.": "Por el derecho y cuando las circunstancias del tráfico o de la vía lo aconsejen, por el inmediato.",
+        "b.": "Solamente por el carril derecho.",
+        "c.": "Por cualquiera de los tres carriles.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_94.jpg",
+        "question": "En un paso estrecho coincide un autobús con un turismo que circula en sentido contrario. ¿Qué vehículo pasará primero si no existe una señal que establezca prioridad?",
+        "a.": "El autobús.",
+        "b.": "El turismo.",
+        "c.": "El primero que haya entrado.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_95.jpg",
+        "question": "Un autobús circula por un carril reservado para autobuses y en una intersección observa este semáforo. ¿Qué debe hacer si pretende continuar de frente?",
+        "a.": "Girar a la derecha o a la izquierda, porque el semáforo obliga a ello.",
+        "b.": "Continuar la marcha sin detenerse.",
+        "c.": "Detenerse, porque prohíbe el paso igual que un semáforo con una luz roja no intermitente.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_96.jpg",
+        "question": "¿Puede circular con un autobús que le falta el principal retrovisor exterior izquierdo?",
+        "a.": "Sí, siempre que pueda observar por el espejo interior.",
+        "b.": "No, en ningún caso.",
+        "c.": "Sí, siempre que lleve instalado un espejo de proximidad.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_97.jpg",
+        "question": "Si usted conduce un autobús, en cuyo caso debe circular a velocidad moderada e incluso, si es necesario, detener el vehículo…",
+        "a.": "Cerca de los pasos de peatones no regulados por semáforos.",
+        "b.": "En las inmediaciones de hospitales y residencias geriátricas.",
+        "c.": "Cuando se conduce en una acera con suelo antideslizante.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_98.jpg",
+        "question": "Para conservar el motor en buen estado es mejor…",
+        "a.": "iniciar la marcha del vehículo inmediatamente después de encender el motor, y acelerar en vacío para llegar a la temperatura optima rápidamente.",
+        "b.": "Llevarlo al taller, únicamente cuando se ha averiado.",
+        "c.": "hacer las revisiones periódicas según indique el fabricante.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_99.jpg",
+        "question": "Conduce un autobús por el carril derecho de una autovía, detrás de una motocicleta a la que pretende adelantar. ¿Le está permitido hacerlo si las circunstancias del tráfico no lo impiden?",
+        "a.": "Sí, pero únicamente si no rebasa la velocidad de 100 km/h.",
+        "b.": "Sí, en todo caso.",
+        "c.": "Sí, pero únicamente si al adelantar no rebasa la velocidad de 90 km/h.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_100.jpg",
+        "question": "Para poder circular, ¿qué longitud máxima, incluida la carga, puede tener un autobús rígido de 4 ejes y 60 plazas?",
+        "a.": "12 metros.",
+        "b.": "18 metros.",
+        "c.": "15 metros.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_101.jpg",
+        "question": "Si, circulando por una pendiente ascendente, el motor de su vehículo baja de revoluciones y por lo tanto de potencia, mientras acelera, ¿qué deberemos hacer?",
+        "a.": "Reducir, seleccionar la relación de marchas más corta.",
+        "b.": "Circular con el pedal a medio-embrague.",
+        "c.": "Reducir la fuerza sobre el pedal del acelerador porque el motor funciona con una mezcla pobre.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_102.jpg",
+        "question": "Si el autobús que conduce tiene dos ejes, ¿Qué MMA no podrá sobrepasar para realizar un transporte colectivo de viajeros de la clase I (autobuses urbanos)?",
+        "a.": "18 toneladas.",
+        "b.": "20 toneladas.",
+        "c.": "25 toneladas.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_103.jpg",
+        "question": "Cuándo revise el nivel de aceite del motor, deberá estar en…",
+        "a.": "caliente.",
+        "b.": "templado.",
+        "c.": "frio.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_104.jpg",
+        "question": "¿Qué autobuses están obligados a utilizar las luces de gálibo?",
+        "a.": "Los que tengan una anchura superior a 1,80 metres.",
+        "b.": "Todos los autobuses.",
+        "c.": "Los que tengan una anchura superior a los 2,10 metros.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_105.jpg",
+        "question": "Conduce un autobús de 11 metros de largo por un camino fuera de la ciudad con un carril en cada sentido, detrás de otro autobús que pretende adelantar. ¿Qué separación mínima debe dejar entre los dos?",
+        "a.": "50 metros.",
+        "b.": "La que permita detener el autobús en caso de frenada brusca sin colisionar con el de delante.",
+        "c.": "La que permita detener al autobús en caso de frenado brusco y que a su vez me permita adelantar al vehículo de delante.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_106.jpg",
+        "question": "¿Qué elemento extrae el carburante del depósito en un motor diesel?",
+        "a.": "La bomba de alimentación.",
+        "b.": "La bomba de inyección.",
+        "c.": "El pistón, por succión.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_107.jpg",
+        "question": "Dispone de dos baterias de 12 voltios. Si la tensión necesaria para accionar el motor de arranque es de 24 voltios, ¿cuál es la conexión más adecuada para conseguirlos?",
+        "a.": "El negativo de una batería con el negativo de la otra.",
+        "b.": "El positivo de una batería con el negativo de la otra.",
+        "c.": "El positivo de una batería a masa y el negativo de la otra conectado a energía.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_108.jpg",
+        "question": "En un autobús, teniendo en cuenta la normativa sobre condiciones de seguridad en el transporte escolar y de menores, ¿en qué caso será obligatoria la figura del acompañante?",
+        "a.": "Cuando al menos el 50% de los viajeros sean menores de 12 años.",
+        "b.": "Cuando en un transporte discrecional, la mitad, al menos, de los viajeros son menores de 16 años.",
+        "c.": "Cuando en un transporte regular, la tercera parte, o más, de los viajeros son sean menores de 18 años.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_109.jpg",
+        "question": "Instala un porta esquís en la parte posterior de su autobús que oculta las luces de posición. En estas circunstancias...",
+        "a.": "deberá señalizar el porta esquís con un panel reflectante para poder circular.",
+        "b.": "no puede circular.",
+        "c.": "solo está permitida la circulación durante el día.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_110.jpg",
+        "question": "Cuando exista fuerte viento, ¿qué se puede hacer para disminuir la resistencia del aire?",
+        "a.": "Circular muy cerca del vehículo que me precede para aprovechar el rebufo.",
+        "b.": "Disminuir la velocidad.",
+        "c.": "Aumentar la velocidad.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_111.jpg",
+        "question": "Si conduciendo un autobús se ve implicado en un accidente y otras personas implicadas requieren su identificación, ¿está obligado a hacerlo?",
+        "a.": "No, sólo tiene que identificarse ante un agente de la autoridad.",
+        "b.": "Sí.",
+        "c.": "Sí, si le parece conveniente.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_112.jpg",
+        "question": "Conduce un autobús y se dispone a realizar un cambio de carril. ¿Es obligatorio indicarlo?",
+        "a.": "Solo cuando observe por el espejo retrovisor que no va a molestar a otro conductor.",
+        "b.": "Sí, siempre.",
+        "c.": "No es obligatorio, pero sí es aconsejable.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_113.jpg",
+        "question": "Un autobús coincide en un puente que no permite el paso simultáneo, con un camión que circula en sentido contrario. Si el conductor del autobús vio a la entrada esta señal, ¿quién deberá retroceder?",
+        "a.": "El conductor del camión.",
+        "b.": "El conductor del autobús.",
+        "c.": "El que tenga que recorrer menor distancia marcha atrás.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_114.jpg",
+        "question": "En una autopista fuera de poblado, en condiciones normales, ¿a qué velocidad mínima deberá circular un autobús dotado con cinturones de seguridad y que no se dedique al transporte de menores?",
+        "a.": "60 kilómetros por hora.",
+        "b.": "50 kilómetros por hora.",
+        "c.": "45 kilómetros por hora.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_115.jpg",
+        "question": "Conduce un autobús y quiere adelantar fuera de poblado a una motocicleta. ¿Qué distancia lateral mínima deberá mantener para hacer la maniobra con seguridad?",
+        "a.": "La suficiente para que además de adelantar a la motocicleta, pueda adelantar a otro vehículo.",
+        "b.": "La proporcional a la velocidad, anchura y características de la calzada.",
+        "c.": "Un metro y medio.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_116.jpg",
+        "question": "Conduce un autobús y circula por autopista, fuera de poblado y detrás de un camión. ¿Le estará permitido avanzarlo si para ello se ve obligado a superar los 80 km/h?",
+        "a.": "Sí, pero solo si no supera los 90 km/h.",
+        "b.": "Sí, siempre que no supere los 100 km/h.",
+        "c.": "No.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_117.jpg",
+        "question": "Conduce un conjunto de vehículos, formado por un autobús y su remolque, cuya longitud total es de 11 metros. ¿Le está permitido circular por una vía a cuya entrada se encuentre esta señal?",
+        "a.": "Sí, esta señal solo afecta a camiones.",
+        "b.": "No.",
+        "c.": "Solo si la longitud del autobús, sin contar la del remolque, es inferior a 10 metros.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_118.jpg",
+        "question": "El titular de un permiso de conducción de la clase D, ¿puede realizar un transporte escolar o de menores?",
+        "a.": "Sí, si mantiene la vigencia de su permiso de conducción.",
+        "b.": "Solo si además es titular de un permiso de conducción de la clase C.",
+        "c.": "No; es necesaria, además, la obtención de una autorización especial.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_119.jpg",
+        "question": "Si conduce un autobús de transporte discrecional de viajeros, ¿Cuándo deberá obedecer las indicaciones de los semáforos que tienen una franja iluminada sobre un fondo circular negro?",
+        "a.": "Nunca, únicamente afecta a los autobuses de líneas regulares.",
+        "b.": "Únicamente cuando circula por un carril reservado a autobuses.",
+        "c.": "Siempre que circula por una vía urbana.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_120.jpg",
+        "question": "Después de superar favorablemente la inspección técnica periódica de su autobús, ¿Dónde deberá colocar su distintivo?",
+        "a.": "Indistintamente en el parabrisas o en cristal térmico posterior.",
+        "b.": "En el parabrisas delantero.",
+        "c.": "En el cristal térmico posterior.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_121.jpg",
+        "question": "¿Cuándo se aplicara la normativa sobre las condiciones de seguridad en el transporte escolar y de menores en un transporte publico regular de viajeros de uso general pro carretera?",
+        "a.": "Cuando al menos la mitad de las plazas del vehículo estén previamente reservadas a menores de 16 años.",
+        "b.": "Cuando al menos la tercera parte de los viajeros sean menores de 16 años.",
+        "c.": "Cuando al menos la mitad de los viajeros sean menores de edad al comienzo del curso escolar.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_122.jpg",
+        "question": "Se presencia un accidente de tráfico en una vía pública, ¿qué debe hacer?",
+        "a.": "No parar y continuar hasta el centro de salud más cercano para pedir ayuda.",
+        "b.": "No hay prisa, guarde la calma y establecer un orden de preferencia de acuerdo a la situación.",
+        "c.": "Aparcar el coche en el camino de entrada y dejarlo con el motor encendido.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_123.jpg",
+        "question": "¿Qué sucede cuando un neumático tiene un nivel bajo de presión?",
+        "a.": "Aumenta la deformación del neumático y el consumo de combustible.",
+        "b.": "Reducción del consumo de combustible y mejora del agarre.",
+        "c.": "Nada, incluso es recomendable para circular por zonas urbanas.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_124.jpg",
+        "question": "Como norma general, un autobús, ¿puede avanzar por la derecha un vehículo que circula más lentamente por el carril de la izquierda?",
+        "a.": "Sí, porque el carril de la derecha está libre.",
+        "b.": "No.",
+        "c.": "Sí, porque la vía tiene dos carriles por el mismo sentido.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_125.jpg",
+        "question": "Los autobuses deben de tener subscrita un seguro obligatorio de viajeros (SOV). ¿Qué daños corporales cubre en caso de accidente?",
+        "a.": "Únicamente los daños de los pasajeros.",
+        "b.": "Tanto los del conductor como los de los viajeros.",
+        "c.": "Únicamente los daños del conductor.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_126.jpg",
+        "question": "Conduce un autobús destinado al servicio regular de viajeros. Si el recorrido que realiza es de 40 kilómetros, ¿está obligado a utilizar tacógrafo?",
+        "a.": "No, cualquiera que sea el número de plazas.",
+        "b.": "Sí, si el autobús tiene más de nueve plazas, incluido el conductor.",
+        "c.": "Sí, si el autobús tiene más de diecisiete plazas, incluido el conductor.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_127.jpg",
+        "question": "En el caso de que el funcionamiento del embrague del autobús sea hidráulico, ¿dónde se encuentra situado el tapón para rellenar?",
+        "a.": "En la parte superior del motor al lado de la placa de presión del embrague.",
+        "b.": "En el soporte que sostiene el filtro de aire.",
+        "c.": "En una zona cerca del pedal de embrague.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_128.jpg",
+        "question": "Si circulando con su vehículo presencia un accidente de tráfico, siguiendo la regla PAS, ¿Cuál será la primera tarea a realizar?",
+        "a.": "Socorrer a los heridos.",
+        "b.": "Avisar a los servicios de emergencia.",
+        "c.": "Señalizar la zona con el objetivo de proteger tanto a las víctimas como a los auxiliadores.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_129.jpg",
+        "question": "Si durante una semana conduce su autobús durante 32 horas, ¿Cuántas horas como máximo podrá conducir la siguiente semana?",
+        "a.": "58 horas.",
+        "b.": "56 horas.",
+        "c.": "90 horas.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_130.jpg",
+        "question": "Si conduce un autobús y realiza un transporte público discrecional de viajeros donde, al menos, las tres cuartas partes son menores de 16 años, debe saber que el acompañante...",
+        "a.": "siempre es obligatorio.",
+        "b.": "nunca es obligatorio.",
+        "c.": "solo es obligatorio cuando el transporte sea de menores de un centro de educación especial.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_131.jpg",
+        "question": "Si su autobús de dedicada al transporte escolar, cuenta con 17 plazas y tiene seis años de antigüedad. ¿Con qué frecuencia deben pasar la inspección técnica periódica?",
+        "a.": "Cada año.",
+        "b.": "Cada dos años.",
+        "c.": "Cada seis meses.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_132.jpg",
+        "question": "Según la normativa sobre condiciones de seguridad en el trasporte escolar y de menores, en caso de ser obligatoria la presencia de un acompañante, ¿Cuál será la plaza que deberá ocupar?",
+        "a.": "Cerca de la puerta delantera.",
+        "b.": "Cerca del conductor.",
+        "c.": "Cerca de la puerta de servicios centrar o detrás.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_133.jpg",
+        "question": "Si el autobús que conduce dispone de un sistema ABS y en el momento de efectuar la frenada de emergencia, nota que el pedal de freno comienza a vibrar ¿Qué deberá hacer?",
+        "a.": "Levantar el pie inmediatamente hasta que termine la vibración.",
+        "b.": "Levantar el pie y volver a pisar el pedal repetidas veces, de forma alternada.",
+        "c.": "Mantener apretado el pedal de freno hasta que el vehículo se detenga.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_134.jpg",
+        "question": "Si un autobús escolar transporta personas con movilidad reducida, como norma general, ¿debe contar con plazas reservadas para estos viajeros?",
+        "a.": "No es necesario.",
+        "b.": "Sí, y estarán cercanas a las puertas de servicio.",
+        "c.": "Solo si se trata de un transporte público regular de uso especial de escolares.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_135.jpg",
+        "question": "Automóvil destinado al transporte de personas de más de 9 incluido el conductor, compuesto por dos partes rígidas unidas entre sí por una sección articulad, es la definición de:",
+        "a.": "Autobús articulado",
+        "b.": "Vehículo articulado",
+        "c.": "Grupo de vehículo o tren de carretera",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_136.jpg",
+        "question": "De acuerdo con la ley de tráfico, los agentes de tráfico pueden inmovilizar su vehículo cuando observen un exceso de tiempo de conducción superior al ...",
+        "a.": "50% de los tiempos establecidos por la regulación.",
+        "b.": "20% de los tiempos establecidos por la regulación.",
+        "c.": "25% de los tiempos establecidos por la regulación.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_137.jpg",
+        "question": "En un semáforo reservado a los autobuses de líneas regulares, la franja blanca iluminada intermitentemente, significa lo mismo que la luz amarilla fija de un semáforo convencional cuando…",
+        "a.": "la franja blanca está en posición horizontal.",
+        "b.": "la franja blanca está en posición vertical u oblicua.",
+        "c.": "La franja blanca està en posició vertical o horitzontal.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_138.jpg",
+        "question": "Con el objetivo de hacer obras en la calzada, se ha habilitado un carril en sentido contrario al habitual. Como norma general, ¿un autobús podrá circular por él?",
+        "a.": "No.",
+        "b.": "Sí.",
+        "c.": "Sí, siempre que transporte pasajeros.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_139.jpg",
+        "question": "Si conduce un autobús destinado al transporte escolar y de menores, ¿cuál es la tasa máxima de alcohol por litro de aire espirado que no podrá rebasar?",
+        "a.": "0,15 miligramos.",
+        "b.": "0,30 miligramos.",
+        "c.": "0,50 miligramos.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_140.jpg",
+        "question": "Si conduce un autobús que arrastra un remolque ligero por un autopista, fuera de poblado, ¿Qué velocidad máxima no podrá superar, incluyendo los adelantamientos?",
+        "a.": "90 kilómetros por hora.",
+        "b.": "80 kilómetros por hora.",
+        "c.": "100 kilómetros por hora.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_141.jpg",
+        "question": "En la normativa sobre los tiempo de conducción y descanso, una semana es el periodo de tiempo entre…",
+        "a.": "las 00,00 horas del lunes y las 24,00 horas del domingo.",
+        "b.": "las 00,00 horas del lunes u las 24,00 horas del sábado.",
+        "c.": "las 00,00 horas del día de la semana que empiece a conducir y las 24,00 horas del séptimo día de conducción.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_142.jpg",
+        "question": "Circula por poblado conduciendo su autobús y quiere adelantar a un taxi que se encuentra detenido. ¿Qué separación lateral debe mantener con el mismo?",
+        "a.": "1,50 metros al menos.",
+        "b.": "Dos metros, por ser el autobús un vehículo voluminoso.",
+        "c.": "Una separación proporcional a la velocidad y la anchura y características de la calzada.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_143.jpg",
+        "question": "¿Qué autobuses autoriza a conducir el permiso de clase D1?",
+        "a.": "Los que tengan un nombre se asientos, incluido el conductor no superior a 17.",
+        "b.": "Los que tengan un nombre se asientos, excluido el conductor no superior a 17.",
+        "c.": "Todos los autobuses rígidos.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_144.jpg",
+        "question": "Si se enciende permanentemente el piloto del circuito de aceite, nos indica que:",
+        "a.": "La presión es correcta.",
+        "b.": "Hay poca presión en el circuito.",
+        "c.": "Hay demasiada presión en el circuito.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_145.jpg",
+        "question": "Tras superar favorablemente la inspección técnica periódica de su autobús, ¿dónde colocará el distintivo?",
+        "a.": "En el ángulo superior izquierdo del parabrisas por su cara interior.",
+        "b.": "El lugar es indiferente, siempre que sea en el parabrisas o en la luneta trasera.",
+        "c.": "En el ángulo superior derecho del parabrisas por su cara interior.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_146.jpg",
+        "question": "Un autobús llega a un estrechamiento que no permite el paso simultaneo de dos vehículos, en ese instante observa que un camión circula en sentido contrario. Si no está señalizada la preferencia de paso…",
+        "a.": "Deberá dar marcha atrás aquel que deba recorrer menor distancia.",
+        "b.": "El autobús deberá retroceder.",
+        "c.": "El camión deberá retroceder.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_147.jpg",
+        "question": "Si mantenemos los neumáticos con la presión correcta conseguiremos que…",
+        "a.": "aumente el consumo de carburante del motor.",
+        "b.": "sean menos seguros.",
+        "c.": "duren más.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_148.jpg",
+        "question": "El dispositivo de limitación de velocidad, ¿Qué clases de vehículos destinados al transporte de personas deberán llevarlo instalado?",
+        "a.": "Todos los vehículos de motor de las categorías M2 y M3 de más de 9 plazas incluyendo la del conductor.",
+        "b.": "Todos los vehículos de motor que superen las 5 toneladas.",
+        "c.": "Todos los vehículos de motor.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_149.jpg",
+        "question": "A consecuencia de un accidente de tráfico, un conductor tiene la pierna fracturada. Si se puede, se deberá…",
+        "a.": "intentar colocar bien los huesos fracturados.",
+        "b.": "inmovilizar la zona fracturada, y cubrirla con una gasa o pañuelo limpio en caso de herida.",
+        "c.": "hacer un masaje en la zona fracturada y aguantarlo firmemente con una venda.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_150.jpg",
+        "question": "¿Qué elementos entran en rozamiento cuando se acciona el ralentizador eléctrico?",
+        "a.": "Las pastillas contra los discos.",
+        "b.": "Ninguno, no existe rozamiento.",
+        "c.": "Las zapatas contra el tambor.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_151.jpg",
+        "question": "En un paso estrecho y sin señalizar, llegan al mismo tiempo un autobús de transporte colectivo de viajeros y en sentido contrario, un carro tirado por animales. ¿Qué vehículo pasará primero?",
+        "a.": "El carro, por tener especial dificultad de maniobra.",
+        "b.": "El autobús, por llevar personas.",
+        "c.": "El que tuviera que dar marcha atrás mayor distancia.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_152.jpg",
+        "question": "¿Qué son los dispositivos ABS, ASR e ESP?",
+        "a.": "Sistemas electrónicos de ayuda a la conducción.",
+        "b.": "Materiales metálicos utilizados en la fabricación de motores.",
+        "c.": "Datos que aparecen en el flanco de los neumáticos.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_153.jpg",
+        "question": "En un autobús equipado de cinturones de seguridad en los asientos de los pasajeros, el conductor, ¿deberá informar de la obligatoriedad de su uso, a falta de medios audiovisuales, letreros o pictogramas?",
+        "a.": "Solo si el recorrido es interurbano, ya que en vías urbanas los pasajeros no deben llevar cinturón.",
+        "b.": "Sí, es una obligación que corresponde al conductor, al guía o a la persona encargada del grupo.",
+        "c.": "No, el conductor no tiene la obligación de informar.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_154.jpg",
+        "question": "Conforme a la Ley de Ordenación del Transporte Terrestre, LOTT, ¿cómo pueden ser los transportes públicos de viajeros por carretera?",
+        "a.": "Regulares o discrecionales.",
+        "b.": "Interiores o de mercancías.",
+        "c.": "De viajeros o privados.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_155.jpg",
+        "question": "La relación de transmisión desde el motor a las ruedas se varía en la caja de velocidades y...",
+        "a.": "en el grupo cónico.",
+        "b.": "entre los satélites y los planetarios del grupo diferencial.",
+        "c.": "en las crucetas del árbol de transmisión.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_156.jpg",
+        "question": "Las luces de gálibo de un autobús se utilizaran…",
+        "a.": "Siempre durante la salida y la puesto del sol.",
+        "b.": "Siempre que estén activadas las luces de carretera y las antiniebla delanteras.",
+        "c.": "Siempre que se circule.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_157.jpg",
+        "question": "En el transporte de viajeros por carretera ¿Qué autobuses deberán llevar obligatoriamente el libro de ruta?",
+        "a.": "Los destinados al transporte interior publico discrecional urbano.",
+        "b.": "Los destinados al transporte interior publico regular, tanto urbano como interurbano.",
+        "c.": "Los destinados al transporte interior publico discrecional interurbano.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_158.jpg",
+        "question": "Conduce un autobús en servicio regular cuyo recorrido no supera los 50 km. ¿Cual es su tiempo máximo de conducción en dos semanas consecutivas?",
+        "a.": "El que establece las normas laborales, pero no las de conducción y descanso.",
+        "b.": "90 horas.",
+        "c.": "70 horas.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_159.jpg",
+        "question": "Un autobús, que circula por un camino de tierra, quiere incorporarse a una vía pavimentada por donde circula un turismo que se acerca por su izquierda. ¿Quién tendrá que ceder el paso?",
+        "a.": "El conductor del vehículo que tenga que retroceder menos distancia hasta un apartadero",
+        "b.": "El conductor del turismo porque se acerca por la izquierda",
+        "c.": "El conductor del autobús, si no hay señalización.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_160.jpg",
+        "question": "En relación a los tiempos de conducción y descanso, ¿a qué se denomina tiempo de conducción?",
+        "a.": "Es el tiempo de conducción registrado manualmente.",
+        "b.": "Es el tiempo de conducción que se registra en el tacógrafo.",
+        "c.": "Es el tiempo de conducción que queda registrado en el tacógrafo o manualmente.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_161.jpg",
+        "question": "Un autobús cuya longitud es de 13,50 metros, ¿debe llevar la señal V-6 de Vehículo Largo?",
+        "a.": "No, porque su longitud no llega a los 14 metros.",
+        "b.": "Sí, porque su longitud rebasa los 12 metros.",
+        "c.": "Solo si realiza servicios discrecionales o regulares interurbanos.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_162.jpg",
+        "question": "¿Esta señal afecta a un conductor de un autobús?",
+        "a.": "Si, excepto si el autobús circula con mercancías.",
+        "b.": "Sí.",
+        "c.": "No.",
+        "explanation": "",
+        "correct": "0 0 1"
+    },
+    {
+        "img": "D_163.jpg",
+        "question": "El traslado de menores entre su domicilio y el centro escolar, en circunstancias normales, la duración máxima del transporte será de…",
+        "a.": "de media hora para cada sentido del viaje.",
+        "b.": "una hora para cada sentido del viaje.",
+        "c.": "de dos horas para cada sentido del viaje.",
+        "explanation": "",
+        "correct": "0 1 0"
+    },
+    {
+        "img": "D_164.jpg",
+        "question": "Un turismo circula a 90 km/h. por una carretera convencional con dos carriles para el mismo sentido. ¿Puede adelantarle con el autobús que conduce?",
+        "a.": "No, en ningún caso.",
+        "b.": "Sí, si al adelantar no supera los 100 km/h.",
+        "c.": "Sí, realizándolo en el menor tiempo y espacio posible.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_165.jpg",
+        "question": "Entre otros, ¿qué documento deberá traer su autobús cuando vaya a pasar la inspección técnica periódica?",
+        "a.": "La tarjeta de inspección técnica de vehículos.",
+        "b.": "El contrato de compraventa del vehículo.",
+        "c.": "El justificante actualizado del pago del impuesto municipal.",
+        "explanation": "",
+        "correct": "1 0 0"
+    },
+    {
+        "img": "D_166.jpg",
+        "question": "En relación al consumo de alcohol, los conductores profesionales deben saber que...",
+        "a.": "sus efectos desaparecen antes que los del café u otro estimulante.",
+        "b.": "se toma en pequeñas cantidades y no es peligroso para la conducción.",
+        "c.": "es una causa frecuente de accidentes de tráfico, muchos de ellos mortales.",
+        "explanation": "",
+        "correct": "0 0 1"
+    }
+]

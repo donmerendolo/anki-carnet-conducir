@@ -3,3 +3,4 @@ Pipfile.lock
 *.apkg
 *.zip
 images/
+venv/
