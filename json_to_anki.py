@@ -23,6 +23,13 @@ licenses = {
     "name": "B",
     "data_path": Path("data/data_B.json"),
     "images_path": Path("images/B")
+  },
+  "D": {
+    "deck name": "Carnet D",
+    "deck id": 2177067182,
+    "name": "D",
+    "data_path": Path("data/data_D.json"),
+    "images_path": Path("images/D")
   }
 }
 
