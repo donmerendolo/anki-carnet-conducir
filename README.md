@@ -26,4 +26,4 @@ https://apps.ankiweb.net/<br>
 ## Instrucciones para crear los .apkg con imágenes:
 1. Descargar el archivo .zip desde este enlace: [anki-carnet-imágenes.zip](https://drive.proton.me/urls/WNKSENJ8QW#SK2bZ6PbkNtN).<br>
 2. Descomprimir en la carpeta del repositorio.<br>
-3. Las imágenes deberían estar en `anki-carnet-conducir/images/A1`, `anki-carnet-conducir/images/B` y `anki-carnet-conducir/images/A1`.<br>
+3. Las imágenes deberían estar en `anki-carnet-conducir/images/A1`, `anki-carnet-conducir/images/B` y `anki-carnet-conducir/images/D`.<br>
